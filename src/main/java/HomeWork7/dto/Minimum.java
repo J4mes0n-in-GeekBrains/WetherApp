@@ -1,5 +1,5 @@
 package HomeWork7.dto;
-
+//Glazyrin
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
 

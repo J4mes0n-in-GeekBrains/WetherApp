@@ -1,5 +1,5 @@
 package HomeWork7;
-//Created by Glazyrin
+//Glazyrin
 import com.fasterxml.jackson.databind.ObjectMapper;
 import HomeWork7.dto.DailyForecast;
 import HomeWork7.dto.WeatherResponse;
